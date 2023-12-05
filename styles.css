@@ -1,0 +1,34 @@
+/* styles.css */
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    background-color: lightseagreen;opacity:0.6;
+}
+
+header {
+    background-color:regba(255, 99, 71, 0.5);
+    padding: 10px;
+    text-align: center;
+}
+
+header{
+    background-image: url(Foodmenu.jpg);
+    background-position: top center, middle;
+    background-repeat: no-repeat, repeat;
+}
+form {
+    margin: 20px;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+
